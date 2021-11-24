@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.js": "/Redux_Ignite_Games/static/js/main.e9ed2a8c.chunk.js",
+    "main.js.map": "/Redux_Ignite_Games/static/js/main.e9ed2a8c.chunk.js.map",
+    "runtime-main.js": "/Redux_Ignite_Games/static/js/runtime-main.6c599701.js",
+    "runtime-main.js.map": "/Redux_Ignite_Games/static/js/runtime-main.6c599701.js.map",
+    "static/js/2.156ac5fc.chunk.js": "/Redux_Ignite_Games/static/js/2.156ac5fc.chunk.js",
+    "static/js/2.156ac5fc.chunk.js.map": "/Redux_Ignite_Games/static/js/2.156ac5fc.chunk.js.map",
+    "static/js/3.7cf8c7da.chunk.js": "/Redux_Ignite_Games/static/js/3.7cf8c7da.chunk.js",
+    "static/js/3.7cf8c7da.chunk.js.map": "/Redux_Ignite_Games/static/js/3.7cf8c7da.chunk.js.map",
+    "index.html": "/Redux_Ignite_Games/index.html",
+    "static/js/2.156ac5fc.chunk.js.LICENSE.txt": "/Redux_Ignite_Games/static/js/2.156ac5fc.chunk.js.LICENSE.txt",
+    "static/media/apple.5757c37e.svg": "/Redux_Ignite_Games/static/media/apple.5757c37e.svg",
+    "static/media/gamepad.c9269ef5.svg": "/Redux_Ignite_Games/static/media/gamepad.c9269ef5.svg",
+    "static/media/logo.9b6b8655.svg": "/Redux_Ignite_Games/static/media/logo.9b6b8655.svg",
+    "static/media/nintendo.f579be04.svg": "/Redux_Ignite_Games/static/media/nintendo.f579be04.svg",
+    "static/media/playstation.18cc4b9c.svg": "/Redux_Ignite_Games/static/media/playstation.18cc4b9c.svg",
+    "static/media/steam.d7b8819f.svg": "/Redux_Ignite_Games/static/media/steam.d7b8819f.svg",
+    "static/media/xbox.3e7db735.svg": "/Redux_Ignite_Games/static/media/xbox.3e7db735.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6c599701.js",
+    "static/js/2.156ac5fc.chunk.js",
+    "static/js/main.e9ed2a8c.chunk.js"
+  ]
+}
