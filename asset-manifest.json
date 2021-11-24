@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/Redux_Ignite_Games/static/js/main.e9ed2a8c.chunk.js",
-    "main.js.map": "/Redux_Ignite_Games/static/js/main.e9ed2a8c.chunk.js.map",
+    "main.js": "/Redux_Ignite_Games/static/js/main.9176f566.chunk.js",
+    "main.js.map": "/Redux_Ignite_Games/static/js/main.9176f566.chunk.js.map",
     "runtime-main.js": "/Redux_Ignite_Games/static/js/runtime-main.6c599701.js",
     "runtime-main.js.map": "/Redux_Ignite_Games/static/js/runtime-main.6c599701.js.map",
     "static/js/2.156ac5fc.chunk.js": "/Redux_Ignite_Games/static/js/2.156ac5fc.chunk.js",
@@ -21,6 +21,6 @@
   "entrypoints": [
     "static/js/runtime-main.6c599701.js",
     "static/js/2.156ac5fc.chunk.js",
-    "static/js/main.e9ed2a8c.chunk.js"
+    "static/js/main.9176f566.chunk.js"
   ]
 }
