@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.js": "/Redux_Ignite_Games/static/js/main.9176f566.chunk.js",
-    "main.js.map": "/Redux_Ignite_Games/static/js/main.9176f566.chunk.js.map",
-    "runtime-main.js": "/Redux_Ignite_Games/static/js/runtime-main.6c599701.js",
-    "runtime-main.js.map": "/Redux_Ignite_Games/static/js/runtime-main.6c599701.js.map",
-    "static/js/2.156ac5fc.chunk.js": "/Redux_Ignite_Games/static/js/2.156ac5fc.chunk.js",
-    "static/js/2.156ac5fc.chunk.js.map": "/Redux_Ignite_Games/static/js/2.156ac5fc.chunk.js.map",
-    "static/js/3.7cf8c7da.chunk.js": "/Redux_Ignite_Games/static/js/3.7cf8c7da.chunk.js",
-    "static/js/3.7cf8c7da.chunk.js.map": "/Redux_Ignite_Games/static/js/3.7cf8c7da.chunk.js.map",
+    "main.js": "/Redux_Ignite_Games/static/js/main.5ca518d8.chunk.js",
+    "main.js.map": "/Redux_Ignite_Games/static/js/main.5ca518d8.chunk.js.map",
+    "runtime-main.js": "/Redux_Ignite_Games/static/js/runtime-main.aedfae39.js",
+    "runtime-main.js.map": "/Redux_Ignite_Games/static/js/runtime-main.aedfae39.js.map",
+    "static/js/2.1a2cac96.chunk.js": "/Redux_Ignite_Games/static/js/2.1a2cac96.chunk.js",
+    "static/js/2.1a2cac96.chunk.js.map": "/Redux_Ignite_Games/static/js/2.1a2cac96.chunk.js.map",
+    "static/js/3.1b3baf69.chunk.js": "/Redux_Ignite_Games/static/js/3.1b3baf69.chunk.js",
+    "static/js/3.1b3baf69.chunk.js.map": "/Redux_Ignite_Games/static/js/3.1b3baf69.chunk.js.map",
     "index.html": "/Redux_Ignite_Games/index.html",
-    "static/js/2.156ac5fc.chunk.js.LICENSE.txt": "/Redux_Ignite_Games/static/js/2.156ac5fc.chunk.js.LICENSE.txt",
+    "static/js/2.1a2cac96.chunk.js.LICENSE.txt": "/Redux_Ignite_Games/static/js/2.1a2cac96.chunk.js.LICENSE.txt",
     "static/media/apple.5757c37e.svg": "/Redux_Ignite_Games/static/media/apple.5757c37e.svg",
     "static/media/gamepad.c9269ef5.svg": "/Redux_Ignite_Games/static/media/gamepad.c9269ef5.svg",
     "static/media/logo.9b6b8655.svg": "/Redux_Ignite_Games/static/media/logo.9b6b8655.svg",
@@ -19,8 +19,8 @@
     "static/media/xbox.3e7db735.svg": "/Redux_Ignite_Games/static/media/xbox.3e7db735.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.6c599701.js",
-    "static/js/2.156ac5fc.chunk.js",
-    "static/js/main.9176f566.chunk.js"
+    "static/js/runtime-main.aedfae39.js",
+    "static/js/2.1a2cac96.chunk.js",
+    "static/js/main.5ca518d8.chunk.js"
   ]
 }
