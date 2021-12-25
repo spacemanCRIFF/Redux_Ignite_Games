@@ -1,9 +1,9 @@
 //Base URL
 const base_url =
-  "https://api.rawg.io/api/games?key=a07bf68841344402b7f41f978adad234";
+  "https://api.rawg.io/api/games?key=ba01bb720e5445b7b3a607b3279e9e3e";
 
 const prebase_url = "https://api.rawg.io/api/games/";
-const key = `?key=a07bf68841344402b7f41f978adad234`;
+const key = `?key=ba01bb720e5445b7b3a607b3279e9e3e`;
 
 //Getting the date
 const getCurrentMonth = () => {

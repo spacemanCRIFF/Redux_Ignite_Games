@@ -9,7 +9,7 @@ import { Link } from "react-router-dom";
 import { smallImage } from "../util";
 import { popup } from "../animations";
 
-const key = `?key=a07bf68841344402b7f41f978adad234`;
+const key = `?key=ba01bb720e5445b7b3a607b3279e9e3e`;
 
 const Game = ({ name, released, image, id }) => {
   const stringPathId = id.toString();
